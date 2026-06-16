@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "53c9d67f-c3fb-4d2c-b61b-a8e1f53aedf0"
+      }
+    },
+    "android": {
+      "package": "com.pikhafez.peykhafez"
+    },
+    "ios": {
+      "bundleIdentifier": "com.pikhafez.peykhafez"
+    },
+    "owner": "pikhafez"
+  }
+}

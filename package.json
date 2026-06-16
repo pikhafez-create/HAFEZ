@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "@types/react": "~19.2.14",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "expo": "~56.0.0-preview.8",
+    "expo-dev-client": "~56.0.20",
+    "expo-notifications": "^56.0.17",
+    "react": "19.2.3",
+    "react-native": "0.85.3"
+  },
+  "name": "peyk-hafez",
+  "version": "1.0.0",
+  "scripts": {}
+}
